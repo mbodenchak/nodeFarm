@@ -1,0 +1,26 @@
+{
+  "name": "nodefarm",
+  "version": "1.0.0",
+  "description": "A simple node app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mbodenchak/nodeFarm.git"
+  },
+  "author": "MCBDEV",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mbodenchak/nodeFarm/issues"
+  },
+  "homepage": "https://github.com/mbodenchak/nodeFarm#readme",
+  "dependencies": {
+    "slugify": "^1.6.5"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.16"
+  }
+}
